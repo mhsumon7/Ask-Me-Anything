@@ -34,6 +34,13 @@ class _askmeanythingState extends State<askmeanything> {
   Widget build(BuildContext context) {
     return Center(
       child: ElevatedButton(
+            style: ElevatedButton.styleFrom(
+          backgroundColor: Colors.blue,
+          elevation: 0,
+          foregroundColor: Colors.blue,
+          shadowColor: Colors.blue,
+          surfaceTintColor: Colors.blue,
+        ),
         child: Image.asset('images/ball$ballNumber.png'),
         onPressed: () {
           setState((){
