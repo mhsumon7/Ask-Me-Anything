@@ -1,16 +1,18 @@
-# ask_me_anything
+# Random answer picker app
 
-A new Flutter project.
+This is a flutter-developed application writing in Dart language.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+It can be installed on
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+Android
+```
+```bash
+IOS
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230108-072714](https://user-images.githubusercontent.com/74013982/211176699-8483d5fb-c375-4bcc-af78-b1bea6a233e6.png)
+![Screenshot_20230108-072722](https://user-images.githubusercontent.com/74013982/211176700-e96b7826-04b1-4d62-b55e-8322e28aa329.png)
